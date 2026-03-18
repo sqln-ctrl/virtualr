@@ -6,6 +6,7 @@ import Features from './components/Features.jsx';
 import Workflow from './components/Workflow.jsx';
 import Pricing from './components/Pricing.jsx';
 import Testimonials from './components/Testimonials.jsx';
+import Footer from './components/Footer.jsx';
 
 function App () {
   return (
@@ -16,7 +17,8 @@ function App () {
              <Features/>
              <Workflow/>
              <Pricing/>
-               <Testimonials/>
+             <Testimonials/>
+             <Footer/>
           </div> 
            
 
